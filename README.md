@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnamikaAffine
+- 👋 Hi, I’m Anamika
 - 👀 I’m interested in Deep Learning, Machine Learning and analytics project
 - 🌱 I’m currently exploring Computer Vision
 - 📫 Ypu can reach me on navyanamika@gmail.com
